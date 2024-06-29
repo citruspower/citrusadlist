@@ -1,6 +1,6 @@
 # CitrusAdlist
 
-Custom ablist by Citrus for Pi-hole or similar DNS based Ad-Blockers.
+Custom adlists for Pi-hole or similar DNS based Ad-Blockers.
 
 
 
@@ -10,6 +10,6 @@ _clean => *all* pure domains
 
 
 
-Only uses "pure" domains.
+Mostly uses "pure" domains.
 (no "@@","||" or similar shenanigans)
 

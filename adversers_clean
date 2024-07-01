@@ -19,7 +19,7 @@ apis.appnxt.net
 banners-slb.mobile.yandex.net
 banners.mobile.yandex.net
 app.ssp.yahoo.com
-m.yap.yahoo.com$domain=~not.dns
+m.yap.yahoo.com
 adv0.msa.cdn.mediaset.net
 mimicromax.com
 bi.yeshen.com
@@ -94,7 +94,7 @@ reachableads-av.amazonaws.com
 static.timetreeads.com
 kfvjdvjzhddhc.com
 zgzxs.weathercn.com
-kiesta.net$third-party
+kiesta.net
 downloadshi.b-cdn.net
 ads.rmbl.ws
 adsassets-ipv6.waze.com
@@ -196,7 +196,7 @@ external-api.impression-neo.naver.com
 mobiadvert.livesportmedia.eu
 sdkv2.imaginationunwired.com
 api-ad-adapter.wps.com
-jtbo*.nqxvevk.cn
+jtbo.nqxvevk.cn
 nasimobi.com
 wd.adcolony.xyz
 im.ov.yahoo.co.jp
@@ -523,7 +523,7 @@ ads.aitype.net
 ad-creatives-public.commondatastorage.googleapis.com
 1mp.mobi
 247realmedia.com
-31.14.252.148$third-party
+31.14.252.148
 360yield.com
 a2dfp.net
 abnad.net
@@ -565,7 +565,7 @@ admarketing.yahoo.net
 admarvel.s3.amazonaws.com
 admedia.com
 admicro1.vcmedia.vn
-admitad.com$domain=~admitad.com
+admitad.com
 admixer.co.kr
 admixer.net
 admulti.com
@@ -661,7 +661,7 @@ cf-ads.pinger.com
 chango.com
 chartboost.com
 clk.taptica.com
-clkfeed.com$popup
+clkfeed.com
 comscore.com
 config.tremorhub.com
 cp.pushwoosh.com
@@ -700,7 +700,7 @@ gts-ads.twistbox.com
 gumgum.com
 ha-api.pushwoosh.com
 heyzap.com
-hostgrater.com$third-party
+hostgrater.com
 houseads-prod.elasticbeanstalk.com
 houseads.ttpsdk.info
 httpool.com

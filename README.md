@@ -9,7 +9,3 @@ _ok => *enough* pure doamins
 _clean => *all* pure domains
 
 
-
-Mostly uses "pure" domains.
-(no "@@","||" or similar shenanigans)
-
